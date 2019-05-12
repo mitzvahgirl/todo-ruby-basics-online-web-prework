@@ -21,6 +21,5 @@ def last_evaluated_value
 end
 
 def pizza_party(pepperoni = "cheese")
-  pepperoni = "#{pepperoni}
-
+  pepperoni = "#{pepperoni}"
 end
