@@ -22,7 +22,7 @@ def last_evaluated_value
    phrase = "expert"
 end
 
-def pizza_party(phrase="pepperoni")
+def pizza_party(phrase="cheese")
  puts = "topping"
  phrase = "topping"
 end
